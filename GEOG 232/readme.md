@@ -6,3 +6,7 @@
 [Natural Increase Europe](Lab07_Data/final/Map1_NatInc.pdf)
 
 [Population Density Europe](Lab07_Data/final/Map1_PopDen.pdf)
+
+[Number of Texas Farms](lab8_final/ProportionalSymbol.pdf)
+
+[Number of Texas Farms](lab8_final/GraduatedSymbol.pdf)
