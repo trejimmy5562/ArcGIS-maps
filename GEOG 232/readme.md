@@ -11,4 +11,4 @@
 
 [Hurricanes Katrina and Emily by Intensity](lab8_final/GraduatedSymbol.pdf)
 
-[Valles Canyon Park Activities](Lab5/Lab5_232 2/VC_Map.pdf)
+[Valles Canyon Park Activities](Lab5/Lab5_232%202/VC_Map.pdf)
