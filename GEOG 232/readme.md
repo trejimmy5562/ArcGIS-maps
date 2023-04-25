@@ -9,4 +9,4 @@
 
 [Number of Texas Farms](lab8_final/ProportionalSymbol.pdf)
 
-[Number of Texas Farms](lab8_final/GraduatedSymbol.pdf)
+[Hurricanes Katrina and Emily by Intensity](lab8_final/GraduatedSymbol.pdf)
