@@ -10,3 +10,5 @@
 [Number of Texas Farms](lab8_final/ProportionalSymbol.pdf)
 
 [Hurricanes Katrina and Emily by Intensity](lab8_final/GraduatedSymbol.pdf)
+
+[Valles Canyon Park Activities](Lab5/Lab5_232 2/VC_Map.pdf)
